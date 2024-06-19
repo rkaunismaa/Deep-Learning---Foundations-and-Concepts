@@ -14,3 +14,4 @@ This will be my repository created for the walk through of the book "Deep Learni
     3) mamba install conda-forge::jupyterlab
     4) mamba install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
     5) mamba install conda-forge::scikit-learn
+    6) mamba install conda-forge::matplotlib
