@@ -1,6 +1,8 @@
 # Deep-Learning---Foundations-and-Concepts
 
-This will be the repository created for the walk through of the book "Deep Learning - Foundations and Concepts" by Christopher Bishop
+## Tuesday, June 18, 2024
+
+This will be my repository created for the walk through of the book "Deep Learning - Foundations and Concepts" by Christopher Bishop. There is no official repository associated with this book but I thought creating one could be a useful learning exercise.
 
 <img src="images/Deep-Learning-Foundations-and-Concepts.jpg" alt="Deep Learning - Foundations and Concepts" width="300">
 
