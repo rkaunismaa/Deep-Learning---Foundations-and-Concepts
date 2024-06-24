@@ -28,4 +28,4 @@ Hah yeah ... the thought 'Ask ChatGPT to do this' just popped into my head, so l
 
     8) mamba install conda-forge::sympy
 
-Damn, Chat GPT is really nailing what I am asking it to do! I sent it an image and ask it to produce the code for it.
+Damn, Chat GPT is really nailing what I am asking it to do! I sent it an image and ask it to produce the code for it. I also asked Claude to do the same, and it too was pretty damn good!
