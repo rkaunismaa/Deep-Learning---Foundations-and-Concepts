@@ -19,3 +19,11 @@ This will be my repository created for the walk through of the book "Deep Learni
 ## Thursday, June 20, 2024
 
     7) mamba install conda-forge::pandas
+
+## Monday, June 24, 2024
+
+Reading through Chapter 2 Probabilities and wondering how to create a notebook to illustrate some of the concepts expressed. 
+
+Hah yeah ... the thought 'Ask ChatGPT to do this' just popped into my head, so let's do that!
+
+    8) mamba install conda-forge::sympy
