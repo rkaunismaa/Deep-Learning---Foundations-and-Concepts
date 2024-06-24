@@ -27,3 +27,5 @@ Reading through Chapter 2 Probabilities and wondering how to create a notebook t
 Hah yeah ... the thought 'Ask ChatGPT to do this' just popped into my head, so let's do that!
 
     8) mamba install conda-forge::sympy
+
+Damn, Chat GPT is really nailing what I am asking it to do! I sent it an image and ask it to produce the code for it.
