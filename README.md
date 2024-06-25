@@ -29,3 +29,7 @@ Hah yeah ... the thought 'Ask ChatGPT to do this' just popped into my head, so l
     8) mamba install conda-forge::sympy
 
 Damn, Chat GPT is really nailing what I am asking it to do! I sent it an image and ask it to produce the code for it. I also asked Claude to do the same, and it too was pretty damn good!
+
+## Tuesday, June 25, 2024
+
+Messing more with Claude and asking it to generate Bayes Theorem examples using sympy. 
