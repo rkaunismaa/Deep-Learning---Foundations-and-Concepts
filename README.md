@@ -33,3 +33,9 @@ Damn, Chat GPT is really nailing what I am asking it to do! I sent it an image a
 ## Tuesday, June 25, 2024
 
 Messing more with Claude and asking it to generate Bayes Theorem examples using sympy. 
+
+## Monday, September 9, 2024
+
+Sigh getting back to this stuff ... keep at it bro ... a lot of good stuff here!
+
+Ran all the notebooks from the kitchen rig just to ensure everything still runs ... it does.
